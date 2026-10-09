@@ -1,3 +1,0 @@
-Welcome to Git practice
-Second line added
-This change is from feature-update branch
